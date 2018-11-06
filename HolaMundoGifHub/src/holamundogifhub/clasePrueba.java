@@ -9,13 +9,6 @@ package holamundogifhub;
  *
  * @author Alumno
  */
-public class HolaMundoGifHub {
-
-    /**
-     * @param args the command line arguments
-     */
-    public static void main(String[] args) {
-        System.out.println("Hola Mundo GitHub");
-    }
+public class clasePrueba {
     
 }
